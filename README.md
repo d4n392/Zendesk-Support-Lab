@@ -1,4 +1,4 @@
-# Zendesk-Support-Lab
+# Zendesk Agent Lab
 In this project I am navigating Zendesk as a Zendesk Agent and communicating effectively to sample end-users. First by creating various real-world sample tickets, then resolving and closing these support tickets.
 
 ## Creating a Support Address
