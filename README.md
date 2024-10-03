@@ -34,7 +34,7 @@ In this project I am navigating Zendesk as a Zendesk Agent by resolving technica
 ![image](https://github.com/user-attachments/assets/089bfa90-b7e9-4769-ba6c-3db0a3c334dc)
 
 ## _Ticket Merging_
-Sometimes you will get repetitive tickets from the same requester. Merging these tickets saves time for both your organization and the customer.
+Sometimes you will get repetitive tickets within a short period of time from the same requester. Merging these tickets saves time for both your organization and the customer.
 
 ![image](https://github.com/user-attachments/assets/5a7220e7-0acd-4042-ae1c-0f633142fe9a)
 ![image](https://github.com/user-attachments/assets/8b4c6c4e-40b7-4656-8925-161b13bc1f11)
@@ -49,7 +49,7 @@ There will be times where a customer will call you and you will need a way to st
 ![image](https://github.com/user-attachments/assets/23b30e63-54bf-430e-83b2-d98d6fcb0c4d)
 
 ## _Macros_
-Macros are extremely important for solving similar types of tickets. They are essentially automatic responses that you craft.............
+Macros are extremely useful for solving similar tickets. They are essentially automatic responses that you craft for tickets with familiar resolution. These are useful for adding different actions such as Priority, Type, Tags, as well as a preset email response with integrated placeholders.
 
 ![image](https://github.com/user-attachments/assets/76ea9d4a-7c8c-435f-9c4c-6b4223154e7e)
 ![image](https://github.com/user-attachments/assets/57c092ea-9316-44d5-963f-876148fdc47a)
