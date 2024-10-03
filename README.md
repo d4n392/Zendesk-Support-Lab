@@ -1,5 +1,5 @@
 # Zendesk Agent Lab
-In this project I am navigating Zendesk as a Zendesk Agent and communicating effectively to sample end-users. From creating various real-world sample tickets, to resolving and closing these support tickets, and even creating Macros to improve workflows.
+In this project I am navigating Zendesk as a Zendesk Agent by resolving technical support tickets via effective communication, resulting in customer satisfaction. From creating various real-world sample tickets, to resolving and closing these support tickets, and even creating Macros to improve workflows.
 
 ## Creating a Support Address
 ![image](https://github.com/user-attachments/assets/b3902767-e370-48ed-9980-b532b84ef474)
@@ -33,20 +33,23 @@ In this project I am navigating Zendesk as a Zendesk Agent and communicating eff
 
 ![image](https://github.com/user-attachments/assets/089bfa90-b7e9-4769-ba6c-3db0a3c334dc)
 
-#### _Ticket Merging_
+## _Ticket Merging_
+Sometimes you will get repetitive tickets from the same requester. Merging these tickets saves time for both your organization and the customer.
 
 ![image](https://github.com/user-attachments/assets/5a7220e7-0acd-4042-ae1c-0f633142fe9a)
 ![image](https://github.com/user-attachments/assets/8b4c6c4e-40b7-4656-8925-161b13bc1f11)
 ![image](https://github.com/user-attachments/assets/77b2153c-888d-46ed-8ac8-730763be7a4c)
 ![image](https://github.com/user-attachments/assets/190cc875-7fd6-4285-9abe-cdf204dd454e)
 
-#### _Adding Tickets_
+## _Adding Tickets_
+There will be times where a customer will call you and you will need a way to store an interactive history of the ticket request. This is where adding your own ticket on the end-user's behalf is the answer. 
 
 ![image](https://github.com/user-attachments/assets/57ab10cd-3e98-4a07-aacd-bcc2ad2d85ad)
 ![image](https://github.com/user-attachments/assets/b5d58a8b-91fb-4110-a83b-124f545980a7)
 ![image](https://github.com/user-attachments/assets/23b30e63-54bf-430e-83b2-d98d6fcb0c4d)
 
 ## _Macros_
+Macros are extremely important for solving similar types of tickets. They are essentially automatic responses that you craft.............
 
 ![image](https://github.com/user-attachments/assets/76ea9d4a-7c8c-435f-9c4c-6b4223154e7e)
 ![image](https://github.com/user-attachments/assets/57c092ea-9316-44d5-963f-876148fdc47a)
@@ -56,6 +59,7 @@ In this project I am navigating Zendesk as a Zendesk Agent and communicating eff
 
 ## _Shortcut Utilization_
 _These shortcuts are a game-changer when optimizing your workflow speed while parsing tickets effectively._
+
 ![image](https://github.com/user-attachments/assets/862e7d73-c947-4897-9255-5bf7fdded975)
 
 
