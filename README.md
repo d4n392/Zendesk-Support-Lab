@@ -48,6 +48,11 @@ There will be times where a customer will call you and you will need a way to st
 ![image](https://github.com/user-attachments/assets/b5d58a8b-91fb-4110-a83b-124f545980a7)
 ![image](https://github.com/user-attachments/assets/23b30e63-54bf-430e-83b2-d98d6fcb0c4d)
 
+#### _Internal Notes_
+Sometimes you need to leave yourself or team members an internal note, that doesn't need to go to the customer.
+
+![image](https://github.com/user-attachments/assets/6078e286-6595-472e-a13c-2d76e9d38f19)
+
 ## _Macros_
 Macros are extremely useful for solving similar tickets. They are essentially automatic responses that you craft for tickets with familiar resolution. These are useful for adding different _Actions_ such as Priority, Type, Status category, Tags, as well as a pre-typed email response with integrated placeholders.
 
@@ -57,6 +62,13 @@ Macros are extremely useful for solving similar tickets. They are essentially au
 ![image](https://github.com/user-attachments/assets/a75018e4-1ba0-48c0-94bb-9c44f7b9a309)
 ![image](https://github.com/user-attachments/assets/722f1d10-486a-4596-bf16-5cb3d2a33951)
 
+## Advanced Search
+There are a ton of different ways you can search for the tickets you need. I searched by date, status, requests with no attachments, and priority level.
+
+![image](https://github.com/user-attachments/assets/acae1f37-2af9-46c5-8902-2858100734d3)
+![image](https://github.com/user-attachments/assets/46b6e7ea-d292-48b9-96c3-676049d9fad1)
+![image](https://github.com/user-attachments/assets/d8fe8ba4-8950-498e-acfd-a2a2cfdf19b4)
+![image](https://github.com/user-attachments/assets/0331c8e7-f0e1-48db-9f76-66200b2eabea)
 
 ## _Shortcut Utilization_
 _These shortcuts are a game-changer when optimizing your workflow speed while parsing tickets effectively._
