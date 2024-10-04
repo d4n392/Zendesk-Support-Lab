@@ -49,13 +49,14 @@ There will be times where a customer will call you and you will need a way to st
 ![image](https://github.com/user-attachments/assets/23b30e63-54bf-430e-83b2-d98d6fcb0c4d)
 
 ## _Macros_
-Macros are extremely useful for solving similar tickets. They are essentially automatic responses that you craft for tickets with familiar resolution. These are useful for adding different actions such as Priority, Type, Tags, as well as a preset email response with integrated placeholders.
+Macros are extremely useful for solving similar tickets. They are essentially automatic responses that you craft for tickets with familiar resolution. These are useful for adding different _Actions_ such as Priority, Type, Status category, Tags, as well as a pre-typed email response with integrated placeholders.
 
 ![image](https://github.com/user-attachments/assets/76ea9d4a-7c8c-435f-9c4c-6b4223154e7e)
 ![image](https://github.com/user-attachments/assets/57c092ea-9316-44d5-963f-876148fdc47a)
 ![image](https://github.com/user-attachments/assets/8ec5682c-d7bc-4e0c-a07b-c5ffb05bd676)
 ![image](https://github.com/user-attachments/assets/a75018e4-1ba0-48c0-94bb-9c44f7b9a309)
 ![image](https://github.com/user-attachments/assets/722f1d10-486a-4596-bf16-5cb3d2a33951)
+
 
 ## _Shortcut Utilization_
 _These shortcuts are a game-changer when optimizing your workflow speed while parsing tickets effectively._
