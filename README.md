@@ -49,7 +49,7 @@ There will be times where a customer will call you and you will need a way to st
 ![image](https://github.com/user-attachments/assets/23b30e63-54bf-430e-83b2-d98d6fcb0c4d)
 
 #### _Internal Notes_
-Sometimes you need to leave yourself or team members an internal note, that doesn't need to go to the customer.
+There are times where you need to leave yourself or team members an internal note, that doesn't need to go to the customer.
 
 ![image](https://github.com/user-attachments/assets/6078e286-6595-472e-a13c-2d76e9d38f19)
 
@@ -75,7 +75,8 @@ _These shortcuts are a game-changer when optimizing your workflow speed while pa
 
 ![image](https://github.com/user-attachments/assets/862e7d73-c947-4897-9255-5bf7fdded975)
 
-
+## Conclusion
+In the Zendesk Agent Lab, I explored the essential functionalities of Zendesk by managing technical support tickets from start to finish. This involved creating and responding to sample tickets, utilizing effective communication techniques to ensure customer satisfaction, and implementing workflows for ticket resolution. I optimized my process with tools like Macros for automated responses and advanced search features to streamline ticket handling. Additionally, I leveraged shortcuts to enhance workflow efficiency, ticket merging for repetitive issues, and internal notes for team collaboration. Overall, this lab strengthened my ability to provide exceptional customer support while improving technical workflows.
 
 
 
